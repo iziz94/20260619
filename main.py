@@ -298,4 +298,3 @@ else:
 
 st.markdown("---")
 st.caption("🐱 MBTI 진로 탐험대 | 진로교육용 Streamlit 웹앱")
-```
